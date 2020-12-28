@@ -14,5 +14,5 @@ VAE, GAN and CycleGAN architectures implemented with Pytorch.
 
 **CycleGAN results:**
 
-![](7.6.1.png)
-![](7.6.1.1.png)
+![](cyclegan-results1.PNG)
+![](cyclegan-results2.PNG)
