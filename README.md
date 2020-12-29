@@ -17,3 +17,10 @@ VAE, GAN and CycleGAN architectures implemented with Pytorch.
 ![](cyclegan-results1.PNG)
 
 ![](cyclegan-results2.PNG)
+
+
+**Adverserial attacks -FSGM:**
+
+![](cyclegan-results1.PNG)
+
+![](cyclegan-results2.PNG)
