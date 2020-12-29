@@ -21,7 +21,7 @@ VAE, GAN and CycleGAN architectures implemented with Pytorch.
 
 **Adverserial attacks -FSGM:**
 
-**Original Image                           Attacked Image
+**Original Image                           Attacked Image**
 
 <img src="4.1 1o.png" width="200" height="200"/> <img src="4.1 1a.png" width="200" height="200"/>
 
