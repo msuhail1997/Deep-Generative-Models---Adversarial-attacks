@@ -1,4 +1,4 @@
-# Deep-Generative-Models & Adversarial Attacks
+# Generative-Models & Adversarial Attacks
 
 VAE, GAN and CycleGAN architectures implemented with Pytorch.
 
