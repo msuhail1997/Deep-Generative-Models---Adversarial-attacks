@@ -33,7 +33,3 @@ VAE, GAN and CycleGAN architectures implemented with Pytorch.
 
 <img src="4.1 2o.PNG" width="200" height="200"/> <img src="4.1 2a.PNG" width="200" height="200"/>
 
-<img src="4.2 1o.PNG" width="200" height="200"/> <img src="4.2 1a.PNG" width="200" height="200"/>
-
-<img src="4.2 2o.PNG" width="200" height="200"/> <img src="4.2 2a.PNG" width="200" height="200"/>
-
