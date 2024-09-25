@@ -1,6 +1,6 @@
 # Generative-Models & Adversarial Attacks
 
-VAE, GAN and CycleGAN architectures implemented with Pytorch.
+VAE, GAN and CycleGAN models were implemented using Pytorch.
 
 **VAE results:**
 
