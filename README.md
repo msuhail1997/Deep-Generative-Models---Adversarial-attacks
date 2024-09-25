@@ -25,7 +25,7 @@ VAE, GAN and CycleGAN models were implemented using Pytorch.
 
 
 
-**Adverserial attacks -FGSM (Original and Attacked Predictions):**
+**Adverserial attacks - FGSM (Original and Attacked Predictions):**
 
 
 <img src="4.1 1o.png" width="200" height="200"/> <img src="4.1 1a.png" width="200" height="200"/>
