@@ -16,7 +16,6 @@ VAE, GAN and CycleGAN models were implemented using Pytorch.
 
 ![](cyclegan-results1.PNG)
 
-![](cyclegan-results2.PNG)
 
 
 
